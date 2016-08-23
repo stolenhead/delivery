@@ -1,4 +1,4 @@
-# Delivey
+# Delivery
 ##Pedido de un delivery de comida mediante un celular.
 1. Inicio
 2. Proceso :coger el celular y llamar al restaurante
